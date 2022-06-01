@@ -1,0 +1,31 @@
+.action__btn {
+    /* margin: 0 5px; */
+  
+}
+.content-head-main{
+    display: flex;
+    color: #ffff;
+    background-color: rgb(1, 1, 72);
+    padding: 10px;
+
+}
+.create__btn {
+    /* margin: 10px 0; */
+    
+}
+#addr{
+    font-size: 19px;
+    color: #ffff;
+    border: 1px solid #ffff;
+    position: relative;
+    left: 700px;
+}
+
+.table_hed{
+    background:rgb(1, 1, 72);
+    color: white;
+}
+.content-main-heading{
+    font-size:25px;
+    margin-left: 20px;
+}
